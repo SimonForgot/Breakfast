@@ -1,2 +1,2 @@
 # Breakfast
-A C++ demo using pyside6,vulkan/cuda 
+A demo using pyside6,pyopengl/vulkan(compute shader) 
